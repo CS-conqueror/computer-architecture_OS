@@ -17,5 +17,5 @@
 | ch7. 보조기억장치 </br> ch8. 입출력장치   | 오유진 | 양지웅 이강현 최다환 최은혜 | 2024.10.31 | [혼공컴운-4차](https://github.com/CS-conqueror/computer-architecture_OS/blob/main/20241031_Chapter_07_08.md)|
 | | | | | |
 | ch11. CPU 스케줄링 </br> ch12. 프로세스 동기화 | 이강현 | 양지웅 오유진 최은혜 | 2024.11.07 | [혼공컴운-6차](https://github.com/CS-conqueror/computer-architecture_OS/blob/main/20241107_Chapter_11_12.md) |
-| | | | | |
+| ch13. 교착 상태 </br> ch14. 가상 메모리 | 양지웅 | 이강현, 오유진 | 2024.11.11 | [혼공컴운-7차] (https://github.com/CS-conqueror/computer-architecture_OS/blob/main/20241111_Chapter_13_14.md) |
 | | | | | |
