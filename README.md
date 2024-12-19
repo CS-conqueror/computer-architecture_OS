@@ -18,4 +18,4 @@
 | | | | | |
 | ch11. CPU 스케줄링 </br> ch12. 프로세스 동기화 | 이강현 | 양지웅 오유진 최은혜 | 2024.11.07 | [혼공컴운-6차](https://github.com/CS-conqueror/computer-architecture_OS/blob/main/20241107_Chapter_11_12.md) |
 | ch13. 교착 상태 </br> ch14. 가상 메모리 | 양지웅 | 이강현, 오유진 | 2024.11.11 | [혼공컴운-7차](https://github.com/CS-conqueror/computer-architecture_OS/blob/main/20241111_Chapter_13_14.md) |
-| | | | | |
+| ch14. 가상 메모리 </br> ch15. 파일 시스템 | 최은혜 | 이강현, 오유진, 최다환 | 2024.11.14 | [혼공컴운-8차](https://github.com/CS-conqueror/computer-architecture_OS/blob/main/20241114_Chapter_14_15.md) |
